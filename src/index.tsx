@@ -1,0 +1,7 @@
+console.log("Hello World!");
+console.log('HMR TESTING');
+
+function add(a:number, b:number):number {
+  return a+b;
+}
+console.log(add(2,2));
